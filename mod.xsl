@@ -25,16 +25,7 @@
                 </li>
                 </xsl:for-each>
             </ul>
-            <div class="commentbar">
-                <button class="bar-tigger">
-                    comment...
-                </button>
-                <span class="comment-count">
-                    123
-                </span>
 
-
-            </div>
         </div>
     </xsl:template>
 
