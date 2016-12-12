@@ -1,6 +1,6 @@
 {
   "name": "comment",
   "version": "1.0.0",
-  "apiDependencies": [{"text":"<xs:element name=\"comments\"><xs:complexType><xs:all><xs:element name=\"i\"><xs:complexType><xs:all><xs:element name=\"tid\" type=\"xs:string\"/><xs:element name=\"user\" type=\"xs:string\"/><xs:element name=\"tag\" type=\"xs:string\"/><xs:element name=\"content\" type=\"xs:string\"/><xs:element name=\"time\" type=\"xs:time\"/></xs:all></xs:complexType></xs:element></xs:all></xs:complexType></xs:element>","name":"comments"}]
+  "apiDependencies": ["comments"]
 }
 
