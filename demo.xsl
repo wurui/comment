@@ -13,7 +13,9 @@
       </head>
       <body>
         <div class="layout">
-          <xsl:call-template name="wurui.comment" />
+          <xsl:call-template name="wurui.comment">
+            <xsl:with-param name="title">热门评论</xsl:with-param>
+          </xsl:call-template>
         </div>
         <script><![CDATA[
           require.config({
