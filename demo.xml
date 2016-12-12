@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+  <env>
+    <domain>local</domain>
+  </env>
+  <data>
+        <comments>
+        <i>
+            <tid>
+                tough notebook
+            </tid>
+            <user>
+                powerful laptop
+            </user>
+            <tag>
+                wallet
+            </tag>
+            <content>
+                car
+            </content>
+            <time>
+                11:23:29 GMT+0800 (CST)
+            </time>
+        </i>
+    </comments>
+  </data>
+
+</root>
