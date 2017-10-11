@@ -7,9 +7,9 @@
       <head>
         <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
         <title>comment Demo</title>
-        <link rel="stylesheet" type="text/css" href="https://oxm1.cc/css/ea.css" />
+        <link rel="stylesheet" type="text/css" href="https://a.oxm1.cc/css/ea.css" />
         <link rel="stylesheet" type="text/css" href="asset/index.css" />
-        <script src="https://oxm1.cc/js/require.js"></script>
+        <script src="https://a.oxm1.cc/js/require.js"></script>
       </head>
       <body>
         <div class="layout">
@@ -20,9 +20,9 @@
         <script><![CDATA[
           require.config({
             paths: {
-              zepto: 'https://oxm1.cc/js/zepto.min',
-              mustache: 'https://oxm1.cc/js/mustache',
-              oxm:'https://oxm1.cc/oxm'
+              zepto: 'https://a.oxm1.cc/js/zepto.min',
+              mustache: 'https://a.oxm1.cc/js/mustache',
+              oxm:'https://a.oxm1.cc/oxm'
             }
           });
           require(['zepto','asset/index'],function(undefine,Mod){
